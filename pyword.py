@@ -1,5 +1,5 @@
 #增加注释
-#对Lab1进行修改
+#对Lab1进行修改了
 import networkx as nx  
 import matplotlib.pyplot as plt  
 import re  
